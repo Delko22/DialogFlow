@@ -1,0 +1,43 @@
+"payload": {
+    "facebook": {
+    "attachment": {
+        "type": "template",
+        "payload": {
+        "template_type": "list",
+        "top_element_style": "compact",
+        "elements": [
+            {
+            "title": "Basic Internet",
+            "subtitle": "50 Mbps down / 5 Mbps up",
+            "image_url": "https://image.ibb.co/gkW7He/Screen_Shot_2018_08_22_at_09_03_58.png",          
+            "default_action": {
+                "type": "web_url",
+                "url": "https://www2.telenet.be/nl/internet-en-tv/internet/bestel-basic-internet/",
+                "webview_height_ratio": "tall"
+            }
+            },
+            {
+            "title": "Internet Fiber 100",
+            "subtitle": "100 Mbps down / 10 Mbps up",
+            "image_url": "https://image.ibb.co/cGLCiK/Screen_Shot_2018_08_22_at_09_04_17.png",          
+            "default_action": {
+                "type": "web_url",
+                "url": "https://www2.telenet.be/nl/internet-en-tv/internet/bestel-internet-fiber-100/",
+                "webview_height_ratio": "tall"
+            }
+            },
+            {
+            "title": "Internet Fiber 200",
+            "subtitle": "200 Mbps down / 20 Mbps up",
+            "image_url": "https://image.ibb.co/hKtyOK/Screen_Shot_2018_08_22_at_09_04_23.png",          
+            "default_action": {
+                "type": "web_url",
+                "url": "https://www2.telenet.be/nl/internet-en-tv/internet/bestel-internet-fiber-200/",
+                "webview_height_ratio": "tall"
+            }
+            }
+        ]
+        }
+    }
+    }
+}
